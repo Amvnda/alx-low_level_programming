@@ -15,7 +15,7 @@ int main(void)
 		if (j == 0 || k == 0)
 			sum += i;
 	}
-	printf ("%d\n", sum);
+	printf("%d\n", sum);
 
 	return (0);
 }
